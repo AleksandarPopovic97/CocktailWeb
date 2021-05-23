@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/CocktailWeb/static/css/main.2ac5b229.chunk.css",
-    "main.js": "/CocktailWeb/static/js/main.7c7a22f7.chunk.js",
-    "main.js.map": "/CocktailWeb/static/js/main.7c7a22f7.chunk.js.map",
-    "runtime-main.js": "/CocktailWeb/static/js/runtime-main.fde56cb0.js",
-    "runtime-main.js.map": "/CocktailWeb/static/js/runtime-main.fde56cb0.js.map",
-    "static/js/2.d404bcb0.chunk.js": "/CocktailWeb/static/js/2.d404bcb0.chunk.js",
-    "static/js/2.d404bcb0.chunk.js.map": "/CocktailWeb/static/js/2.d404bcb0.chunk.js.map",
-    "static/js/3.cc2c209e.chunk.js": "/CocktailWeb/static/js/3.cc2c209e.chunk.js",
-    "static/js/3.cc2c209e.chunk.js.map": "/CocktailWeb/static/js/3.cc2c209e.chunk.js.map",
+    "main.css": "/CocktailWeb/static/css/main.26fd5d37.chunk.css",
+    "main.js": "/CocktailWeb/static/js/main.d9ac46c5.chunk.js",
+    "main.js.map": "/CocktailWeb/static/js/main.d9ac46c5.chunk.js.map",
+    "runtime-main.js": "/CocktailWeb/static/js/runtime-main.f183f0e0.js",
+    "runtime-main.js.map": "/CocktailWeb/static/js/runtime-main.f183f0e0.js.map",
+    "static/js/2.799a7c53.chunk.js": "/CocktailWeb/static/js/2.799a7c53.chunk.js",
+    "static/js/2.799a7c53.chunk.js.map": "/CocktailWeb/static/js/2.799a7c53.chunk.js.map",
+    "static/js/3.874b73e8.chunk.js": "/CocktailWeb/static/js/3.874b73e8.chunk.js",
+    "static/js/3.874b73e8.chunk.js.map": "/CocktailWeb/static/js/3.874b73e8.chunk.js.map",
     "index.html": "/CocktailWeb/index.html",
-    "static/css/main.2ac5b229.chunk.css.map": "/CocktailWeb/static/css/main.2ac5b229.chunk.css.map",
-    "static/js/2.d404bcb0.chunk.js.LICENSE.txt": "/CocktailWeb/static/js/2.d404bcb0.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/CocktailWeb/static/media/coctail.4c4efd26.jpeg",
+    "static/css/main.26fd5d37.chunk.css.map": "/CocktailWeb/static/css/main.26fd5d37.chunk.css.map",
+    "static/js/2.799a7c53.chunk.js.LICENSE.txt": "/CocktailWeb/static/js/2.799a7c53.chunk.js.LICENSE.txt",
+    "static/media/cocktail2.caaf561e.png": "/CocktailWeb/static/media/cocktail2.caaf561e.png",
+    "static/media/LandingPage.module.css": "/CocktailWeb/static/media/coctail.4c4efd26.jpeg",
     "static/media/logo.6ce24c58.svg": "/CocktailWeb/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fde56cb0.js",
-    "static/js/2.d404bcb0.chunk.js",
-    "static/css/main.2ac5b229.chunk.css",
-    "static/js/main.7c7a22f7.chunk.js"
+    "static/js/runtime-main.f183f0e0.js",
+    "static/js/2.799a7c53.chunk.js",
+    "static/css/main.26fd5d37.chunk.css",
+    "static/js/main.d9ac46c5.chunk.js"
   ]
 }
