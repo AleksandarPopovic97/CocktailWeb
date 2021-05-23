@@ -1,0 +1,11 @@
+.LandingPage{
+  background-image: linear-gradient(#2dad0dbe, #581715a8), url('../../assets/coctail.jpeg') ;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;  
+  align-items: center;
+}
